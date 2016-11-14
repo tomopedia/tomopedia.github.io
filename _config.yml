@@ -31,4 +31,4 @@ gems:
 exclude:
   - Gemfile
   - Gemfile.lock
-include: ["_mainpages"]
+include: ["main_pages"]
