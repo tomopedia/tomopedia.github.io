@@ -27,6 +27,12 @@
             {% include icon-github.html username=site.github_username %}
           </li>
           {% endif %}
+          
+          {% if site.gitter_username %}
+          <li>
+            {% include icon-gitter.html username=site.gitter_username %}
+          </li>
+          {% endif %}
 
           {% if site.twitter_username %}
           <li>
