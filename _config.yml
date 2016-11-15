@@ -21,10 +21,17 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://tomopedia.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 github_username:  tomopedia
+gitter_username:  tomopedia
 google_analytics: UA-87393222-1
 
 # Build settings
 markdown: kramdown
+highlighter: rouge
+
+kramdown:
+    input: GFM
+    syntax_highlighter: rouge
+
 theme: minima
 gems:
   - jekyll-feed
