@@ -46,7 +46,7 @@
     });
 
     for (var key in window.store) { // Add the data to lunr
-      if (window.store[key].title){
+      if (window.store[key].title && window.store[key].url !== '/404.html'){
         idx.add({
           'id': key,
           'title': window.store[key].title,
