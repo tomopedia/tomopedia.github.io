@@ -8,7 +8,7 @@
       <div class="footer-col footer-col-1">
         <ul class="contact-list">
           <li>
-            {% if site.author %}
+            <!-- {% if site.author %}
               {{ site.author | escape }}
             {% else %}
               {{ site.title | escape }}
@@ -16,7 +16,11 @@
             </li>
             {% if site.email %}
             <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
-            {% endif %}
+            {% endif %} -->
+            <form action="/search" method="get">
+              <input type="text" id="search-box" name="query" placeholder="Search" style="padding: 0 0 0 5px">
+              <input type="image" src="/assets/icon-search.svg" border="0" alt="Submit" style='vertical-align: middle'/>
+            </form>
         </ul>
       </div>
 

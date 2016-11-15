@@ -122,7 +122,11 @@ blockquote {
   }
 }
 
-
+input[type=text] {
+    border: none;
+    border-bottom: 2px solid #e9e9e9;
+    background: #f6f6f6;
+}
 
 /**
  * Code formatting
