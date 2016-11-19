@@ -27,8 +27,14 @@
 .table-striped{
   box-shadow: 0 1px 3px rgba(0,0,0,0.2);
   border-collapse: collapse;
+  th {
+    padding-right: 0.5em;
+    padding-left: 0.5em;
+  }
   tr > td
   {
+    padding-left: 0.5em;
+    padding-right: 0.5em;
     padding-bottom: 0.5em;
     padding-top: 0.5em;
   }
@@ -42,6 +48,27 @@
     &:nth-of-type(odd) {
       background: #e9e9e9
     }
+  }
+}
+
+.table-references{
+  border-collapse: collapse;
+  th {
+    font-weight: normal;
+    vertical-align: top;
+  }
+  tr > td
+  {
+    padding-right: 0.5em;
+    vertical-align: top;
+  }
+  thead {
+    color: #000000;
+    background: #ffffff;
+    text-align: left;
+  }
+  tbody > tr {
+    background: #ffffff;
   }
 }
 
