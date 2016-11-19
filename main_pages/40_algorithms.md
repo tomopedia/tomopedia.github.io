@@ -16,13 +16,14 @@ each package, you can click on the Tomopedia link.
 |                     Name                    | Software | Description | References |
 |:-------------------------------------------:|:--------:|:-----------:|:----------:|
 | [Filtered Backprojection](/algorithms/fbp/) |          |             |      [Kak+01]      |
-|       [Gridrec](/algorithms/gridrec/)       |          |             |  [Mar+12]  |
+|       [Gridrec](/algorithms/gridrec/)       |          |             |  [Dow+99], [Mar+12]  |
 
 <br>
 
 ### References
 
 {: .table .table-references}
-| [Kak+01] | Kak, A. C., & Slaney, M. (2001). Principles of Computerized Tomographic Imaging (Philadelphia, PA: SIAM). |
+| [Dow+99] | Dowd BA, Campbell GH, Marr RB, Nagarkar VV, Tipnis SV, Axe L, and Siddons DP. Developments in synchrotron x-ray computed microtomography at the national synchrotron light source. In Proc. SPIE, volume 3772, 224–236. 1999. |
 |----------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [Kak+01] | Kak, A. C., & Slaney, M. (2001). Principles of Computerized Tomographic Imaging (Philadelphia, PA: SIAM). |
 | [Mar+12] | Marone, F., & Stampanoni, M. (2012). Regridding reconstruction algorithm for real-time tomographic imaging. *Journal of synchrotron radiation, 19*(6), 1029-1037. |
