@@ -24,7 +24,7 @@ Note that someone with administrator access to Tomopedia has to accept the chang
 before they will show up on the website.
 
 #### Propose changes in pull request
-For bigger changes, it is probably better to [fork](https://help.github.com/articles/fork-a-repo/)
+For bigger changes, it is better to [fork](https://help.github.com/articles/fork-a-repo/)
 the Tomopedia [git repository](https://github.com/tomopedia/tomopedia.github.io),
 make your changes, and create a [pull request](https://help.github.com/articles/creating-a-pull-request/).
 Tomopedia runs on [GitHub pages](https://help.github.com/categories/github-pages-basics/) using [Jekyll](https://jekyllrb.com/),
@@ -33,3 +33,7 @@ are located in `main_pages/`, while specific pages about algorithms or software
 packages are arranged by topic (e.g. TomoPy's page is located at `software/tomopy.md`).
 
 #### Get direct access to git repository
+If you expect to make regular additions or modifications to Tomopedia, it is
+easier to get direct access to Tomopedia's git repository. To do so, please
+create an issue on GitHub [here](https://www.github.com/tomopedia/tomopedia.github.io/issues)
+with a request for access.
