@@ -14,8 +14,8 @@ The ASTRA Toolbox is easily available via conda in Linux for Python 2.7 and Pyth
 conda install -c astra-toolbox astra-toolbox
 ```
 
-More general instructions are available at http://astra-toolbox.com/docs/install.html .
+More general instructions are available at <http://astra-toolbox.com/docs/install.html>.
 
 ## Usage
 
-There are Python samples available at https://github.com/astra-toolbox/astra-toolbox/tree/master/samples/python .
+There are Python samples available at <https://github.com/astra-toolbox/astra-toolbox/tree/master/samples/python>.
