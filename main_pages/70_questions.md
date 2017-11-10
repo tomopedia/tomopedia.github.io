@@ -42,4 +42,4 @@ create an issue on GitHub [here](https://www.github.com/tomopedia/tomopedia.gith
 with a request for access.
 
 #### Timing algorithms/packages
-When adding new software/algorithms, we recommend providing timing information for typical 512 X 512 X 512 , 1024 X 1024 X 1024 and 2048 X 2048 X 2048 transmission tomography data sets from the [databank](https://tomobank.readthedocs.io/en/latest/) and information on the hardware used to run the software.  
+When adding new software/algorithms, we recommend providing timing information for typical 512 X 512 X 512 , 1024 X 1024 X 1024 and 2048 X 2048 X 2048 simulated transmission tomography data sets and data set tomo_00001 from the [tomo databank](https://tomobank.readthedocs.io/en/latest/source/data/docs.data.roundrobin.html) and information on the hardware used to run the software.  
