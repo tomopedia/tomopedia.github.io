@@ -1,6 +1,3 @@
-# tomopedia.github.io
-A Wiki for tomography-related algorithms and software packages.
-
 # Website structure
 
 All main pages (e.g. 'software', 'algorithms') are found under `main_pages`. 
