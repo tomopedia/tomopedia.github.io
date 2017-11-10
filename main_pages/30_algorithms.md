@@ -23,9 +23,10 @@ each package, you can click on the Tomopedia link.
 ## Iterative algorithms
 
 {: .table .table-striped}
-|                     Name                    | Software | Description | References |
-|:-------------------------------------------:|:--------:|:-----------:|:----------:|
-|             |          |             |    |
+| Name | Software |                   Description                   | References |
+|:----:|:--------:|:-----------------------------------------------:|:----------:|
+| SIRT |          | Simultaneous Iterative Reconstruction Technique |  [Kak+01]  |
+| ART  |          | Algebraic Reconstruction Technique              | [Kak+01]   |
 
 <br>
 
