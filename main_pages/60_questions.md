@@ -1,9 +1,11 @@
 ---
 layout: page
-title: How to contribute
-permalink: contribute/
+title: Questions
+permalink: questions/
 include_in_menu: true
 ---
+
+## How to contribute?
 
 There are many ways to contribute to the Tomopedia website, and we encourage
 everybody to do so. Most of Tomopedia's content is written in [Markdown](https://en.wikipedia.org/wiki/Markdown),
