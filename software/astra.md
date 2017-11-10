@@ -8,7 +8,7 @@ The ASTRA Toolbox is a MATLAB and Python toolbox of high-performance GPU primiti
 
 ## Installation
 
-The ASTRA Toolbox is easily available via conda in Linux for Python 2.7 and Python 3.5:
+The ASTRA Toolbox is easily available via conda in Linux for Python 2.7 and Python 3.5, 3.6:
 
 ```bash
 conda install -c astra-toolbox astra-toolbox
