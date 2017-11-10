@@ -9,7 +9,8 @@ include_in_menu: true
 
 There are many ways to contribute to the Tomopedia website, and we encourage
 everybody to do so. Most of Tomopedia's content is written in [Markdown](https://en.wikipedia.org/wiki/Markdown),
-which makes it easy to edit content with any text processor.
+which makes it easy to edit content with any text processor. An overview of
+how the website code is structured can be found [here](https://github.com/tomopedia/tomopedia.github.io/blob/master/README.md).
 
 Below is a list of possible ways of contributing, with some
 guidelines on how to proceed.
