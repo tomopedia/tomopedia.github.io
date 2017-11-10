@@ -12,11 +12,19 @@ each package, you can click on the Tomopedia link.
 [//]: # (Note: you can use http://www.tablesgenerator.com/markdown_tables to more easily)
 [//]: # (edit the markdown table.)
 
+## Direct algorithms
+
 {: .table .table-striped}
 |                     Name                    | Software | Description | References |
 |:-------------------------------------------:|:--------:|:-----------:|:----------:|
 | [Filtered Backprojection](/algorithms/fbp/) |          |             |      [Kak+01]      |
 |       [Gridrec](/algorithms/gridrec/)       |          |             |  [Dow+99], [Mar+12]  |
+
+## Iterative algorithms
+
+{: .table .table-striped}
+|                     Name                    | Software | Description | References |
+|:-------------------------------------------:|:--------:|:-----------:|:----------:|
 
 <br>
 
