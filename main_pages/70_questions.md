@@ -37,5 +37,5 @@ packages are arranged by topic (e.g. TomoPy's page is located at `software/tomop
 #### Get direct access to git repository
 If you expect to make regular additions or modifications to Tomopedia, it is
 easier to get direct access to Tomopedia's git repository. To do so, please
-create an issue on GitHub [here](https://www.github.com/tomopedia/tomopedia.github.io/issues)
+leave a comment on the page [here](https://github.com/tomopedia/tomopedia.github.io/issues/3)
 with a request for access.
