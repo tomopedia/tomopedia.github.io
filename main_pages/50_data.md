@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Resources
-permalink: resources/
+title: Data
+permalink: data/
 include_in_menu: true
 ---
 
