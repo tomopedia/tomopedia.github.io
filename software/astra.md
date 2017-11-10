@@ -19,3 +19,7 @@ More general instructions are available at <http://astra-toolbox.com/docs/instal
 ## Usage
 
 There are Python samples available at <https://github.com/astra-toolbox/astra-toolbox/tree/master/samples/python>.
+
+## Benchmarks
+
+To be added...

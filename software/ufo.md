@@ -33,3 +33,7 @@ using pre-generated sinograms could look like this
 ```bash
 ufo-launch read path=sinograms/ ! fft ! filter ! ifft ! backproject ! write filename=slices/slice-%05i.tif
 ```
+
+## Benchmarks
+
+To be added...

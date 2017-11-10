@@ -19,3 +19,7 @@ More general instructions are available at <https://tomopy.readthedocs.io/en/lat
 ## Usage
 
 Examples can be found at: <https://tomopy.readthedocs.io/en/latest/demo.html>.
+
+## Benchmarks
+
+To be added...
