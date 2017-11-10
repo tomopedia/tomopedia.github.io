@@ -37,5 +37,8 @@ packages are arranged by topic (e.g. TomoPy's page is located at `software/tomop
 #### Get direct access to git repository
 If you expect to make regular additions or modifications to Tomopedia, it is
 easier to get direct access to Tomopedia's git repository. To do so, please
-leave a comment on the page [here](https://github.com/tomopedia/tomopedia.github.io/issues/3)
+create an issue on GitHub [here](https://www.github.com/tomopedia/tomopedia.github.io/issues)
 with a request for access.
+
+#### Timing algorithms/packages
+When adding new software/algorithms, we recommend providing timing information for typical ~512^{3} , 1024^3 and ~2048^3 transmission tomography data sets from the databank (https://tomobank.readthedocs.io/en/latest/) and information on the hardware used to provide to run the software.  
