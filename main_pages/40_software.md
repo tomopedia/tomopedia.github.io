@@ -38,19 +38,11 @@ the Tomopedia link, or visit the package's website.
 
 
 
-## Workflow Managers
+## Workflow Managers & User Interfaces
 
 
 {: .table .table-striped}
 |                   Name                   |                        Website                       | Description                                                                                                                                                                                           |
 |:----------------------------------------:|:----------------------------------------------------:|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|          [Savu](/software/savu/)         |          [link](https://savu.readthedocs.io)         | Savu is a Python package to assist with reconstructing tomography data.                                                                                                                               |
-
-
-## Shared Brain Power
-
-
-{: .table .table-striped}
-|                   Name                   |                        Website                       | Description                                                                                                                                                                                           |
-|:----------------------------------------:|:----------------------------------------------------:|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|          [Savu](/software/savu/)         |          [link](https://savu.readthedocs.io)         | Savu is a Python package to assist with reconstructing tomography data.                                                                                                                               
 |        [Xi-cam](/software/xi-cam/)       |     [link](https://github.com/ronpandolfi/Xi-cam)    | Xi-cam is a graphical environment for synchrotron data analysis, management, and visualization developed by the Advanced Light Source at Lawrence Berkeley National Laboratory.                       |
