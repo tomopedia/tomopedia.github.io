@@ -36,4 +36,14 @@ ufo-launch read path=sinograms/ ! fft ! filter ! ifft ! backproject ! write file
 
 ## Benchmarks
 
-To be added...
+All results were obtained by reconstructing 2048 slices from 2048 sinograms each
+with a width of 2048 pixels and 2048 projection angles. No actual data was read
+or written, just the sinograms filtered and then backprojected.
+
+| Configuration             | Mean time (s) | Rate (slices/s) |
+|---------------------------|--------------:|----------------:|
+| 7× NVIDIA GTX TITAN       |         54.66 |            37.5 |
+| 1× NVIDIA P100            |         84.32 |            24.3 |
+| 4× NVIDIA GTX TITAN       |        101.02 |            20.3 |
+| 2× NVIDIA Tesla K20Xm     |        132.52 |            15.5 |
+| 1× NVIDIA GTX TITAN Black |        197.54 |            10.4 |
