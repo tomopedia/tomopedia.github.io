@@ -40,6 +40,7 @@ All results were obtained by reconstructing 2048 slices from 2048 sinograms each
 with a width of 2048 pixels and 2048 projection angles. No actual data was read
 or written, just the sinograms filtered and then backprojected.
 
+{: .table .table-striped}
 | Configuration             | Mean time (s) | Rate (slices/s) |
 |---------------------------|--------------:|----------------:|
 | 7× NVIDIA GTX TITAN       |         54.66 |            37.5 |
