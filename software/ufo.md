@@ -47,4 +47,5 @@ or written, just the sinograms filtered and then backprojected.
 | 1× NVIDIA P100            |         84.32 |            24.3 |
 | 4× NVIDIA GTX TITAN       |        101.02 |            20.3 |
 | 2× NVIDIA Tesla K20Xm     |        132.52 |            15.5 |
+| 1× AMD FirePro W9100      |        159.51 |            12.8 |
 | 1× NVIDIA GTX TITAN Black |        197.54 |            10.4 |
