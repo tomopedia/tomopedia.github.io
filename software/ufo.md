@@ -43,6 +43,7 @@ or written, just the sinograms filtered and then backprojected.
 {: .table .table-striped}
 | Configuration             | Mean time (s) | Rate (slices/s) |
 |---------------------------|--------------:|----------------:|
+| 4× NVIDIA GTX 1080 TI     |         28.72 |            71.3 |
 | 7× NVIDIA GTX TITAN       |         54.66 |            37.5 |
 | 1× NVIDIA P100            |         84.32 |            24.3 |
 | 4× NVIDIA GTX TITAN       |        101.02 |            20.3 |
