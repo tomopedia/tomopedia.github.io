@@ -45,6 +45,7 @@ or written, just the sinograms filtered and then backprojected.
 |---------------------------|--------------:|----------------:|
 | 4× NVIDIA GTX 1080 TI     |         28.72 |            71.3 |
 | 7× NVIDIA GTX TITAN       |         54.66 |            37.5 |
+| 2× NVIDIA Quadro M6000    |         61.59 |            33.3 |
 | 1× NVIDIA P100            |         84.32 |            24.3 |
 | 4× NVIDIA GTX TITAN       |        101.02 |            20.3 |
 | 2× NVIDIA Tesla K20Xm     |        132.52 |            15.5 |
