@@ -36,6 +36,6 @@ Resources
 - [ODL Documentation](https://odlgroup.github.io/odl/)
 - [Installation guide](https://odlgroup.github.io/odl/getting_started/installing.html)
 - [Getting Started](https://odlgroup.github.io/odl/getting_started/getting_started.html)
-- [Code Examples](examples)
+- [Code Examples](https://github.com/odlgroup/odl/blob/master/examples)
 - [API reference](https://odlgroup.github.io/odl/odl.html)
 - [ODL Course Material](https://github.com/odlgroup/odlworkshop)
