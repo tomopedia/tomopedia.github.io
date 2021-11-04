@@ -30,7 +30,7 @@ the Tomopedia link, or visit the package's website.
 | [TomoPy](/software/tomopy)                |  [link](http://tomopy.tomopy.readthedocs.io/)                                          | TomoPy is an open-source Python package for tomographic data processing and image reconstruction.                                                                                                     |
 | [TXM Wizard](/software/txm)               |  [link](https://sourceforge.net/projects/txm-wizard/)                     | Toolbox for handling X-ray transmission image data collected using the Xradia TXM system.                                                                                                             |
 | [UFO](/software/ufo/)                     |  [link](http://ufo-core.readthedocs.io/)                                  | UFO is a multi-threaded, GPU-enabled and distributed data processing framework.                                                                                                                       |
-
+| [CIL](/software/cil/)                 |  [link](https://www.ccpi.ac.uk/CIL)                                    | The Core Imaging Library (CIL) is an open-source Python framework for tomographic imaging with particular emphasis on reconstruction of challenging datasets. It provides state-of-the-art iterative algorithms and regularisers for tomographic inverse problems, incorporating projectors from the ASTRA and TIGRE Toolboxes. 
 
 ## Simulation Software
 
