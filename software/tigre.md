@@ -24,7 +24,7 @@ Learn more in the [open access paper](http://iopscience.iop.org/article/10.1088/
 
 ## Installation
 
-Follow the instructions at TIGRE, for [MATLAB](https://github.com/CERN/TIGRE/blob/master/Frontispiece/MATLAB_installation.md) or [python](https://github.com/CERN/TIGRE/blob/master/Frontispiece/MATLAB_installation.md).
+Follow the instructions at TIGRE, for [MATLAB](https://github.com/CERN/TIGRE/blob/master/Frontispiece/MATLAB_installation.md) or [python](https://github.com/CERN/TIGRE/blob/master/Frontispiece/python_installation.md).
 
 
 You will need [CUDA](https://developer.nvidia.com/cuda-downloads) and a C++ compiler supported. Check the links avobe to find out which compiler you need for each OS/language.
