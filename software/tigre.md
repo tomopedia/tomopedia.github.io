@@ -4,7 +4,7 @@ title: TIGRE toolbox
 permalink: software/tigre/
 ---
 
-The Tomographic Iterative GPU-based Reconstruction (TIGRE) toolbox is a MATLAB/Python-CUDA toolbox for fast iterative recosntruction of 3D tomographic images. It supports cone and parallel X-ray sources and it has a flexible geometry (arbitrary axis of rotation, offsets, pixel sizes, etc). TIGRE is easy to use and features over 10 iterative algorithms in addition to the classic filtered backprojection algorithms. 
+The Tomographic Iterative GPU-based Reconstruction (TIGRE) toolbox is a MATLAB/Python-CUDA toolbox for fast iterative reconstruction of 3D tomographic images. It supports cone and parallel X-ray sources and it has a flexible geometry (arbitrary axis of rotation, offsets, pixel sizes, etc). TIGRE is easy to use and features over 10 iterative algorithms in addition to the classic filtered backprojection algorithms. 
 
 Algorithms in TIGRE include:
 
