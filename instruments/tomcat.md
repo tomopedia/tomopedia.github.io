@@ -4,7 +4,7 @@ title: TOMCAT beamline
 permalink: instruments/tomcat/
 ---
 
-The TOMCAT beamline X02DA of the [Swiss Light Source ](https://www.psi.ch/sls) at the [Paul Scherrer Institute](https://www.psi.ch) offers a wide range of X-ray tomographic imaging techniques. More information is available at the [TOMCAT website](http://microct.lbl.gov/)
+The TOMCAT beamline X02DA of the [Swiss Light Source ](https://www.psi.ch/sls) at the [Paul Scherrer Institute](https://www.psi.ch) offers a wide range of X-ray tomographic imaging techniques. More information is available at the [TOMCAT website](https://www.psi.ch/en/sls/tomcat).
 
 ## Specifications
 
