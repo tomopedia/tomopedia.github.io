@@ -19,4 +19,4 @@ Please see various [tutorials](https://dkazanc.github.io/ToMoBAR/tutorials/direc
 
 ## Benchmarks
 
-As ToMoBAR relies on [ASTRA](/astra/) toolbox modules, one can expect a similar to ASTRA performance. The speed-up (up to 5 times) can be achieved by using CuPy implementations of the advanced iterative methods with regularisation (see [FISTA](https://dkazanc.github.io/ToMoBAR/api/tomobar.methodsIR_CuPy.html#tomobar.methodsIR_CuPy.RecToolsIRCuPy.FISTA)), instead of the host-device-host versions.
+As ToMoBAR relies on [ASTRA](/software/astra/) toolbox modules, one can expect a similar to ASTRA performance. The speed-up (up to 5 times) can be achieved by using CuPy implementations of the advanced iterative methods with regularisation (see [FISTA](https://dkazanc.github.io/ToMoBAR/api/tomobar.methodsIR_CuPy.html#tomobar.methodsIR_CuPy.RecToolsIRCuPy.FISTA)), instead of the host-device-host versions.
