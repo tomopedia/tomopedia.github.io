@@ -34,6 +34,16 @@ Tomopedia runs on [GitHub pages](https://help.github.com/categories/github-pages
 and should not be difficult to edit. The main pages (those that show up in the menu)
 are located in `main_pages/`, while specific pages about algorithms or software
 packages are arranged by topic (e.g. TomoPy's page is located at `software/tomopy.md`).
+To clone your fork and verify the changes locally:
+
+{% highlight shell %}
+$ gem install bundler jekyll
+$ git clone https://github.com/tomopedia/tomopedia.github.io.git
+$ cd tomopedia.github.io.git
+$ bundle exec jekyll serve
+{% endhighlight %}
+
+then open your web browser entering the IP address provided by jekyll, typically this is http://127.0.0.1:4000/.
 
 #### Get direct access to git repository
 If you expect to make regular additions or modifications to Tomopedia, it is
