@@ -8,7 +8,7 @@ The Micro-CT beamline at the [Australian Synchrotron Facility](https://www.ansto
 
 ## Specifications
 
-### Advanced Photon Source
+### Australian Synchrotron Facility
 
 * Ring Energy: 3.0 GeV
 * Ring Current: 200 mA
